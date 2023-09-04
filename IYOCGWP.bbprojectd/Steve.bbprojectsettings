@@ -56,7 +56,7 @@
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
-	<real>0.80774550484094054</real>
+	<real>0.8091286307053942</real>
 	<key>ProjectItemsExpanded</key>
 	<true/>
 	<key>ProjectViewVisible</key>
@@ -65,7 +65,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2023-09-04T22:09:37Z</date>
+			<date>2023-09-04T23:31:40Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -122,6 +122,6 @@
 	<key>ViewSplitterPosition:Steve</key>
 	<real>0.19078947603702545</real>
 	<key>WindowFrame:Steve:displays([(0, 0), (1470, 956)])</key>
-	<string>rect(160,83,883,1147)</string>
+	<string>rect(100,0,823,1064)</string>
 </dict>
 </plist>
